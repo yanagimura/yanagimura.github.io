@@ -1,0 +1,24 @@
+{
+  "name": "yanagimura.github.io",
+  "version": "1.0.0",
+  "description": "vuepressで静的サイトを作る",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev app",
+    "build": "vuepress build app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanagimura/yanagimura.github.io.git"
+  },
+  "author": "yanagimura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanagimura/yanagimura.github.io/issues"
+  },
+  "homepage": "https://github.com/yanagimura/yanagimura.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^1.3.0"
+  }
+}
